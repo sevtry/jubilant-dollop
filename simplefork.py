@@ -20,7 +20,6 @@
 # ##### END GPL LICENSE BLOCK #####
 
 
-
 # <pep8 compliant>
 
 from math import pi
